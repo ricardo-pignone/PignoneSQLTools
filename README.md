@@ -1,16 +1,4 @@
 
-**Pastas do projeto:**
-
-![Menu](Images/Folders.png)
-
-|Pasta   | Conteúdo   |
-| :------------: | :------------: |
-|  [Addin] | Código Fonte do Addin   |
-|  [DLLs] | Dlls utilizados no projeto  |
-|  [Help] | Arquivo de help do addin  |
-|  [Outros] | Arquivos diversos (documentação, etc)  |
-|  [Publish] | Arquivo de geração da instalação do addin pelo innosetup e publicação no chocolatey |
-
 ### **FUNCIONALIDADES**
 
 **Menu Principal**
