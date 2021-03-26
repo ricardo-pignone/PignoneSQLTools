@@ -1,0 +1,33 @@
+Pignone SQL Tools License
+==================
+
+All documentation and software included in the package is owned by Ricardo G. Pignone.
+
+Copyright (C) 2021 Ricardo Pignone. All rights reserved.
+
+This software is provided "as is" without any express or implied warranty.
+In no event will the author be liable for any damages arising from the
+use of this software.
+
+Permission is granted to anyone to use this software for any purpose,
+including business applications, and to change and redistribute them,
+provided that the following conditions are met:
+
+1. All redistributions of source code files must retain all copyright.
+   notices that are in effect and this list of conditions without
+   modification.
+
+2. All redistributions in binary form must retain all occurrences of the
+   above copyright notice and website addresses that are currently on
+   location (for example, in the About boxes).
+
+3. The origin of this software must not be misrepresented; you should not
+   claim that you wrote the original software. If you use this software to
+   distribute a product, an acknowledgment in the product documentation
+   would be appreciated, but it is not mandatory.
+
+4. Versions modified in source or binary form must be clearly marked as
+   such, and should not be misrepresented as being the original software.
+
+Ricardo . Pignone
+https://github.com/ricardo-pignone
