@@ -1,45 +1,45 @@
 ### **FUNCIONALIDADES**
 
-**Menu Principal**
+**Main Menu**
 
-Permite criar menus na barra principal ou em ,outros menus existentes. 
-Não necessita de criar o arquivo  .vsct e utilizar  *ProvideMenuResource("Menus.ctmenu", 1)]*. Utiliza interface *IVsProfferCommands3* para criação dos commandos dinamicamente.
+Allows you to create menus on the main bar or on other existing menus.
+You do not need to create the .vsct file and use * ProvideMenuResource ("Menus.ctmenu", 1)] *. Uses interface * IVsProfferCommands3 * to create commands dynamically.
 
 ![Menu]([Images]/MenuBar.png)	
 
 **ToolBox**
 
-Permite criar toolbox.
+Allows you to create a toolbox.
 
 ![Menu]([Images]/ToolBox.png)
 	
 **Object Explorer ContextMenu**
 
-Permite a criação de menu de contexto para objetos (database, table, etc). Possível utilizar varios recursos para navegar entres os nós da arvore de  objetos.
+It allows the creation of a context menu for objects (database, table, etc.). It is possible to use several resources to navigate between the nodes of the object tree.
 
 ![Menu]([Images]/ObjectExplorerContextMenu.png)
 
 **OutputWindow**
 
-Permite criar vários paineis de saída personalizados.  Enviar mensagens para os paineis de saída como Logs. 
+Allows you to create several customized output panels. Send messages to the output panels as Logs.
 
 ![Menu]([Images]/OutputWindow.png)
 
 **StatusBar** 
 
-Permite enviar mensagens para a barra de status, iniciar animação com ícones.
+Allows you to send messages to the status bar, start animation with icons.
 
 ![Menu]([Images]/StatusBar.png)
 
 **TrayIcon**
 	
-Permite criar um icone na bandeja do windows com  eventos de click e menus de contexto.
+Allows you to create an icon in the windows tray with click events and context menus.
 
 ![Menu]([Images]/TrayIcon.png)
 
 **Configuração**
 
-Permite a criação de paginas de configuração utilizando o padrão Grid ou utilizando controles personalizados
+It allows the creation of configuration pages using the Grid standard or using custom controls.
 
 ![Menu]([Images]/SettingGrid.png)
 
@@ -48,6 +48,6 @@ Permite a criação de paginas de configuração utilizando o padrão Grid ou ut
 
 **Document**
 
-Permite a criação de barra de informação, barra de status personalizada, adorments e outros recursos.
+It allows the creation of information bar, personalized status bar, adorments and other resources.
 
 ![Menu]([Images]/TextEditor.png)
