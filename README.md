@@ -1,4 +1,4 @@
-### **FUNCIONALIDADES**
+### **FEATURES**
 
 **Main Menu**
 
